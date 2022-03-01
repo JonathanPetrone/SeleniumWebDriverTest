@@ -1,1 +1,1 @@
-selenium-side-runner inceptive.side
+dotnet test inceptive.sln

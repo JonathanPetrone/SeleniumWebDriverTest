@@ -1,1 +1,1 @@
-dotnet test inceptive.sln
+dotnet test inceptive123.csproj 
